@@ -21,6 +21,7 @@ Requirements: heading, bold, italic, block quote, ordered list, unordered list, 
 `code: print("Hello World");`
 
 ---
+---
 Horizontal Rule (above^^)
 
 [My favorite sports team](https://www.arsenal.com/)
