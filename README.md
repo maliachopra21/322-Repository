@@ -19,3 +19,10 @@ Requirements: heading, bold, italic, block quote, ordered list, unordered list, 
 - unordered list x2
 
 `code: print("Hello World");`
+
+---
+Horizontal Rule (above^^)
+
+[My favorite sports team](https://www.arsenal.com/)
+![The logo](<img width="207" height="243" alt="arsenal" src="https://github.com/user-attachments/assets/82416050-d1f2-44b5-9f5d-6df2d300bf7f" />
+)
