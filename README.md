@@ -6,6 +6,7 @@ Requirements: heading, bold, italic, block quote, ordered list, unordered list, 
 ### Third level heading
 
 **Bold text**
+
 *italics*
 
 > blockquote "You miss 100% of the shots you don't take" - Wayne Gretzky
@@ -17,4 +18,4 @@ Requirements: heading, bold, italic, block quote, ordered list, unordered list, 
 - unordered list
 - unordered list x2
 
-`code: Print "Hello World";`
+`code: print("Hello World");`
