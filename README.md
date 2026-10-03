@@ -26,3 +26,6 @@ Horizontal Rule (above^^)
 [My favorite sports team](https://www.arsenal.com/)
 ![The logo](<img width="207" height="243" alt="arsenal" src="https://github.com/user-attachments/assets/82416050-d1f2-44b5-9f5d-6df2d300bf7f" />
 )
+
+<img width="207" height="243" alt="arsenal" src="https://github.com/user-attachments/assets/96bf54c9-5103-4374-b3db-aa9aacd99ec3" />
+
